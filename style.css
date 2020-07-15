@@ -1,0 +1,53 @@
+/* .main{
+    border: 2px solid darkolivegreen;
+    width: 200px;
+    margin: 0 auto;
+}
+.result{
+    width: 95%;
+    background-color: whitesmoke;
+    color:black;
+    margin: 1px;
+}
+.clearbtn{
+    background-color: coral;
+    margin: 1px;
+    width: 45px;
+}
+.btn{
+    background-color: wheat;
+    margin: 1px;
+    width: 45px;
+} */
+.main{
+    border: 2px solid grey;
+    width: 200px;
+    margin: 0 auto;
+}
+.result{
+    width: 95%;
+    background-color: white;
+    color: black;
+    margin: 1px;
+}
+.clearbtn{
+    width: 100%;
+    margin-top: 5px;
+    background-color: coral;
+    margin: 1px;
+}
+.mainbtn{
+    background-color: coral;
+    width: 45px;
+    margin: 1px;
+}
+.btn{
+    background-color: palegoldenrod;
+    width: 45px;
+    margin: 1px;
+}
+.halfbtn{
+    background-color: coral;
+    width: 45px;
+    margin: 1px;
+}
